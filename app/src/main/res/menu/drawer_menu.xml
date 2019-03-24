@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_offre"
+            android:icon="@drawable/ic_offrepetsitting"
+            android:title="Offres" />
+        <item
+            android:id="@+id/nav_conseil"
+            android:icon="@drawable/ic_petadvice"
+            android:title="Conseils" />
+        <item
+            android:id="@+id/nav_veterinaire"
+            android:icon="@drawable/ic_vet"
+            android:title="Veterinaires" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_dec"
+            android:icon="@drawable/ic_back"
+            android:title="Déconnexion" />
+    </group>
+
+
+</menu>
