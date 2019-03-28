@@ -1,6 +1,5 @@
 # PetCare
 
-Android Application 
 
 By Wiem Rebah 
 
